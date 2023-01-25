@@ -1,0 +1,8 @@
+sites:
+  - url: "https://python.org"
+    timeout: 3
+    regexp: null
+  - url: "https://wikipedia.com"
+    timeout: 2
+    regexp: null
+frequency: 10
